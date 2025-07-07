@@ -1,8 +1,6 @@
 # 🏄‍♂️ Roneil Bordallo
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-## 👾 Roneil Bordallo | Cybersecurity Researcher | Hacker | Developer
+**`Digital Craftsman (Cyber Security Researcher/Hacker/Developer/Filmmaker/Creator)`**
 
 Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, active **Hacker**, and curious **Developer** grinding for knowledge and digital freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
 
