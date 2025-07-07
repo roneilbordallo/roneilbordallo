@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
+## 👾 Roneil Bordallo | Cybersecurity Researcher | Hacker | Developer
+
 Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, active **Hacker**, and curious **Developer** grinding for knowledge and digital freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
 
 🚀 I contribute to security by:
@@ -13,6 +15,8 @@ Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, active **Hacke
 - Web apps, mobile apps, and software tools
 - Open-source projects for hacking, automation, and security research
 - Custom solutions for businesses via my startup [StackTarget](https://stacktarget.com)
+
+🔒 Proudly affiliated with [Metaphor Security](https://metaphorsec.com/), collaborating to secure the next generation of digital systems.
 
 **Hacker Mindset:** Breaking things to make them better. Learning never stops.
 
