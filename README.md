@@ -78,12 +78,6 @@ Connect, Collaborate, or Challenge me — let's make the internet stronger toget
 - 🌐 **HackenProof - Cryptology Influencer**  
   [hackenproof.com/cryptology/cryptology/influencers](https://hackenproof.com/cryptology/cryptology/influencers)
 
-  ### 🛡️ My Mission
-- Hunt vulnerabilities in the wild
-- Strengthen digital infrastructures
-- Build tools for security and productivity
-- Contribute to the global hacker community
-
 **Recognized by**:
 Google Bug Hunters, Payoneer, Philips, XSOLLA, Telekom SK, Crunch.co.uk, SilverGoldBull, AUGMENTT, Carousell, The Internet Bug Bounty, Timeweb, OxStreet, Unbabel, Foodlion (Ahold Delhaize USA), Appfluence: Priority Matrix, TruTrip.co, Syfe, HackenProof Cryptology, and more.
 
