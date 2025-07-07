@@ -55,6 +55,28 @@ Connect, Collaborate, or Challenge me — let's make the internet stronger toget
 <br />
 
 #
+## 🔒 Works & Recognition
+
+- 🏆 **Syfe Security Researcher Hall of Fame**  
+  [syfe.com/bug-bounty#hall-of-fame-section](https://www.syfe.com/bug-bounty#hall-of-fame-section)
+
+- 🏆 **Philips Security Researcher Hall of Honors**  
+  [philips.com/security/hall-of-honors](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html#slide_#)
+
+- 🛡️ **Security Researcher @ Google**  
+  [wiza.co/d/google/c822/roneil-bordallo](https://wiza.co/d/google/c822/roneil-bordallo)
+
+- 🏅 **XSOLLA Security Researcher Hall of Fame**  
+  [help.xsolla.com/xsolla-bounty-program](https://help.xsolla.com/xsolla-bounty-program)
+
+- 🏅 **Telekom SK Security Researcher Hall of Fame**  
+  [telekom.sk/wiki/ostatne/program-bug-bounty](https://www.telekom.sk/wiki/ostatne/program-bug-bounty)
+
+- 🏅 **Crunch.co.uk Security Researcher Hall of Fame**  
+  [help.crunch.co.uk/article/Responsible-Disclosure](https://help.crunch.co.uk/s/article/Responsible-Disclosure)
+
+- 🌐 **HackenProof - Cryptology Influencer**  
+  [hackenproof.com/cryptology/cryptology/influencers](https://hackenproof.com/cryptology/cryptology/influencers)
 
 ### 📺 Latest YouTube Videos
 
