@@ -61,12 +61,6 @@ Here’s your updated **"Works & Recognition"** section, now including:
 
 > 🏅 **National Aeronautics and Space Administration (NASA) Security Researcher Hall of Fame**
 
-I've inserted it in the correct place (ordered and styled consistently):
-
----
-
-## 🔒 Works & Recognition
-
 * 🏆 **Syfe Security Researcher Hall of Fame**
   [syfe.com/bug-bounty#hall-of-fame-section](https://www.syfe.com/bug-bounty#hall-of-fame-section)
 
