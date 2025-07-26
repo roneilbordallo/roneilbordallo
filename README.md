@@ -60,6 +60,7 @@ Connect, Collaborate, or Challenge me — let's make the internet stronger toget
 Here’s your updated **"Works & Recognition"** section, now including:
 
 > 🏅 **National Aeronautics and Space Administration (NASA) Security Researcher Hall of Fame**
+> [bugcrowd.com/engagements/nasa-vdp/hall_of_fames](https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames)
 
 * 🏆 **Syfe Security Researcher Hall of Fame**
   [syfe.com/bug-bounty#hall-of-fame-section](https://www.syfe.com/bug-bounty#hall-of-fame-section)
