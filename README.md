@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Roneil+%3C3;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
-
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, active **Hacker**, and curious **Developer** grinding for knowledge and digital freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
 
