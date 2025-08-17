@@ -13,7 +13,7 @@
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, **Hacker**, **Developer** grinding for light and freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
+Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, **Hacker**, **Developer** grinding for knowledge and digital freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
 
 🚀 I contribute to security by:
 - Participating in **Bug Bounty Programs**
