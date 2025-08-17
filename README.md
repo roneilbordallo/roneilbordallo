@@ -1,6 +1,9 @@
 # 🏄‍♂️ Roneil Bordallo
 
 **`Digital Craftsman (Cyber Security Researcher/Hacker/Developer/Filmmaker/Creator)`**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+
 
 Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, active **Hacker**, and curious **Developer** grinding for knowledge and digital freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
 
