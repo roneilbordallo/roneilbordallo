@@ -23,7 +23,6 @@ Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, **Hacker**, **
 💻 I also develop:
 - Web apps, mobile apps, and software tools
 - Open-source projects for hacking, automation, and security research
-- Custom solutions for businesses via my startup [StackTarget](https://stacktarget.com)
 
 🔒 Proudly affiliated with [Metaphor Security](https://metaphorsec.com/), collaborating to secure the next generation of digital systems.
 
