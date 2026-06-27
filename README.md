@@ -33,7 +33,8 @@ Hey there! I’m Roneil, a **Cybersecurity Researcher**, **Hacker**, and **Devel
 ## 🔒 Works & Recognition
 
 * 🚨 **Critical Vulnerability in the U.S. Department of Defense**
-  Responsibly disclosed a critical vulnerability affecting U.S. Department of Defense assets through HackerOne.
+  Responsibly disclosed a critical vulnerability affecting U.S. Department of Defense assets through HackerOne:  
+  https://hackerone.com/deptofdefense
 
 * 🏅 **U.S. Department of Defense HackerOne Hall of Fame**  
   https://hackerone.com/deptofdefense
