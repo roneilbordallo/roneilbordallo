@@ -88,7 +88,7 @@ Connect, Collaborate, or Challenge me — let's make the internet stronger toget
 * 🛡️ **Security Researcher @ Google**  
   [wiza.co/d/google/c822/roneil-bordallo](https://wiza.co/d/google/c822/roneil-bordallo)
 
-* 🏅 **XSOLLA Security Researcher Hall of Fame**  
+* 🏅 **Xsolla Security Researcher Hall of Fame**  
   [help.xsolla.com/xsolla-bounty-program](https://help.xsolla.com/xsolla-bounty-program)
 
 * 🏅 **Telekom SK Security Researcher Hall of Fame**  
@@ -103,7 +103,7 @@ Connect, Collaborate, or Challenge me — let's make the internet stronger toget
 ---
 
 **Recognized by**:  
-National Aeronautics and Space Administration (NASA), Google Bug Hunters, Payoneer, Philips, XSOLLA, Telekom SK, Crunch.co.uk, SilverGoldBull, AUGMENTT, Carousell, The Internet Bug Bounty, Timeweb, OxStreet, Unbabel, Foodlion (Ahold Delhaize USA), Appfluence: Priority Matrix, TruTrip.co, Syfe, HackenProof Cryptology, and more.
+National Aeronautics and Space Administration (NASA), Google Bug Hunters, Payoneer, Philips, Xsolla, Telekom SK, Crunch.co.uk, SilverGoldBull, Augmentt, Carousell, The Internet Bug Bounty, Timeweb, OxStreet, Unbabel, Foodlion (Ahold Delhaize USA), Appfluence: Priority Matrix, TruTrip.co, Syfe, HackenProof Cryptology, and more.
 
 **Let’s Connect, Collaborate, or Hunt Bugs Together.**
 
