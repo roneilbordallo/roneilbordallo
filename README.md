@@ -13,7 +13,7 @@
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, **Hacker**, **Developer** grinding for knowledge and digital freedom. I explore vulnerabilities, hunt bugs, and build tools that make the web safer.
+Hey there! I’m Roneil, a **Cybersecurity Researcher**, **Hacker**, and **Developer** focused on discovering vulnerabilities, hunting bugs, and building tools that improve security. I’m driven by continuous learning and the pursuit of stronger, safer systems across the web.
 
 🚀 I contribute to security by:
 - Participating in **Bug Bounty Programs**
@@ -47,9 +47,6 @@ Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, **Hacker**, **
 * 🏅 **XSOLLA Bug Bounty Program – Hall of Fame (Apr 2026)**  
   Issued by XSOLLA · April 2026
 
-* 🧾 **SA-2026-679 — Security Advisory / Validated Security Finding**
-  Roneil Bordallo, SA-2026-679
-
 * 🏅 **National Aeronautics and Space Administration (NASA) Security Researcher Hall of Fame**  
   https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames
 
@@ -70,3 +67,6 @@ Hey there! I'm Roneil, a passionate **Cybersecurity Researcher**, **Hacker**, **
 
 * 🌐 **HackenProof – Cryptology Influencer**  
   https://hackenproof.com/cryptology/cryptology/influencers
+
+  * 🧾 **SA-2026-679 — Security Advisory Security Finding**
+  Roneil Bordallo, SA-2026-679
