@@ -45,8 +45,8 @@ Hey there! I’m Roneil, a **Cybersecurity Researcher**, **Hacker**, and **Devel
 * 🏅 **DuoCircle Bug Bounty Program – Security Researcher Hall of Fame @ HackerOne**  
   https://hackerone.com/duocircle
 
-* 🏅 **XSOLLA Bug Bounty Program – Hall of Fame (Apr 2026)**  
-  Issued by XSOLLA · April 2026
+* 🏅 **Xsolla Bug Bounty Program – Hall of Fame (2026)**  
+  https://help.xsolla.com/xsolla-bounty-program
 
 * 🏅 **National Aeronautics and Space Administration (NASA) Security Researcher Hall of Fame**  
   https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames
@@ -56,6 +56,9 @@ Hey there! I’m Roneil, a **Cybersecurity Researcher**, **Hacker**, and **Devel
 
 * 🏆 **Philips Security Researcher Hall of Honors**  
   https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html#slide_#
+
+* 🏅 **Xsolla Bug Bounty Program – Hall of Fame (2024)**  
+  https://help.xsolla.com/xsolla-bounty-program
 
 * 🛡️ **Security Researcher @ Google**  
   https://wiza.co/d/google/c822/roneil-bordallo
